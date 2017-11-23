@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_portal_page" unload_date="2017-11-23 09:35:18">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>watson.kamanga</sys_created_by>
+        <sys_created_on>2017-10-25 12:33:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ad9960150fca030042b606bce1050e84</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_portal_page_ad9960150fca030042b606bce1050e84</sys_update_name>
+        <sys_updated_by>watson.kamanga</sys_updated_by>
+        <sys_updated_on>2017-10-25 12:33:31</sys_updated_on>
+        <title>PA New Tab</title>
+        <user/>
+        <view>pa_new_tab_1</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">ad9960150fca030042b606bce1050e84</page>
+                <summary>All Incidents by State</summary>
+                <sys_created_by>watson.kamanga</sys_created_by>
+                <sys_created_on>2017-10-25 12:42:48</sys_created_on>
+                <sys_id>1dbbac150fca030042b606bce1050e17</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>watson.kamanga</sys_updated_by>
+                <sys_updated_on>2017-10-25 12:42:48</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">e99960150fca030042b606bce1050e85</grid_canvas>
+                        <height>10</height>
+                        <portal_widget display_value="Created 2017-10-25 05:42:48">1dbbac150fca030042b606bce1050e17</portal_widget>
+                        <posx>0</posx>
+                        <posy>0</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>watson.kamanga</sys_created_by>
+                        <sys_created_on>2017-10-25 12:42:48</sys_created_on>
+                        <sys_id>9dbbe0550fca030042b606bce1050eaf</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_name>e99960150fca030042b606bce1050e85</sys_name>
+                        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+                        <sys_policy/>
+                        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_9dbbe0550fca030042b606bce1050eaf</sys_update_name>
+                        <sys_updated_by>watson.kamanga</sys_updated_by>
+                        <sys_updated_on>2017-10-25 12:42:48</sys_updated_on>
+                        <width>12</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-10-25 05:42:48">1dbbac150fca030042b606bce1050e17</portal_section>
+                        <sys_created_by>watson.kamanga</sys_created_by>
+                        <sys_created_on>2017-10-25 12:42:48</sys_created_on>
+                        <sys_id>11bbac150fca030042b606bce1050e18</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>watson.kamanga</sys_updated_by>
+                        <sys_updated_on>2017-10-25 12:42:48</sys_updated_on>
+                        <value>d028d98f470111002ee987e8dee49097</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2017-10-25 05:42:48">1dbbac150fca030042b606bce1050e17</portal_section>
+                        <sys_created_by>watson.kamanga</sys_created_by>
+                        <sys_created_on>2017-10-25 12:42:48</sys_created_on>
+                        <sys_id>19bbac150fca030042b606bce1050e18</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>watson.kamanga</sys_updated_by>
+                        <sys_updated_on>2017-10-25 12:42:48</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-10-25 05:42:48">1dbbac150fca030042b606bce1050e17</portal_section>
+                        <sys_created_by>watson.kamanga</sys_created_by>
+                        <sys_created_on>2017-10-25 12:42:48</sys_created_on>
+                        <sys_id>51bbac150fca030042b606bce1050e19</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>watson.kamanga</sys_updated_by>
+                        <sys_updated_on>2017-10-25 12:42:48</sys_updated_on>
+                        <value>All Incidents by State</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-10-25 05:42:48">1dbbac150fca030042b606bce1050e17</portal_section>
+                        <sys_created_by>watson.kamanga</sys_created_by>
+                        <sys_created_on>2017-10-25 12:42:48</sys_created_on>
+                        <sys_id>55bbac150fca030042b606bce1050e18</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>watson.kamanga</sys_updated_by>
+                        <sys_updated_on>2017-10-25 12:42:48</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2017-10-25 05:42:48">1dbbac150fca030042b606bce1050e17</portal_section>
+                        <sys_created_by>watson.kamanga</sys_created_by>
+                        <sys_created_on>2017-10-25 12:42:48</sys_created_on>
+                        <sys_id>9dbbac150fca030042b606bce1050e18</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>watson.kamanga</sys_updated_by>
+                        <sys_updated_on>2017-10-25 12:42:48</sys_updated_on>
+                        <value>bar</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2017-10-25 05:42:48">1dbbac150fca030042b606bce1050e17</portal_section>
+                        <sys_created_by>watson.kamanga</sys_created_by>
+                        <sys_created_on>2017-10-25 12:42:48</sys_created_on>
+                        <sys_id>d9bbac150fca030042b606bce1050e18</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>watson.kamanga</sys_updated_by>
+                        <sys_updated_on>2017-10-25 12:42:48</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">ad9960150fca030042b606bce1050e84</page>
+                <summary>Unassigned Incidents </summary>
+                <sys_created_by>watson.kamanga</sys_created_by>
+                <sys_created_on>2017-10-25 12:38:57</sys_created_on>
+                <sys_id>38daa4150fca030042b606bce1050e21</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>watson.kamanga</sys_updated_by>
+                <sys_updated_on>2017-10-25 12:38:57</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">e99960150fca030042b606bce1050e85</grid_canvas>
+                        <height>5</height>
+                        <portal_widget display_value="Created 2017-10-25 05:38:57">38daa4150fca030042b606bce1050e21</portal_widget>
+                        <posx>0</posx>
+                        <posy>10</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>watson.kamanga</sys_created_by>
+                        <sys_created_on>2017-10-25 12:38:57</sys_created_on>
+                        <sys_id>34da2c150fca030042b606bce1050ecb</sys_id>
+                        <sys_mod_count>2</sys_mod_count>
+                        <sys_name>e99960150fca030042b606bce1050e85</sys_name>
+                        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+                        <sys_policy/>
+                        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_34da2c150fca030042b606bce1050ecb</sys_update_name>
+                        <sys_updated_by>watson.kamanga</sys_updated_by>
+                        <sys_updated_on>2017-10-25 12:42:49</sys_updated_on>
+                        <width>3</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-10-25 05:38:57">38daa4150fca030042b606bce1050e21</portal_section>
+                        <sys_created_by>watson.kamanga</sys_created_by>
+                        <sys_created_on>2017-10-25 12:38:57</sys_created_on>
+                        <sys_id>30da2c150fca030042b606bce1050eca</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>watson.kamanga</sys_updated_by>
+                        <sys_updated_on>2017-10-25 12:38:57</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-10-25 05:38:57">38daa4150fca030042b606bce1050e21</portal_section>
+                        <sys_created_by>watson.kamanga</sys_created_by>
+                        <sys_created_on>2017-10-25 12:38:57</sys_created_on>
+                        <sys_id>3cda2c150fca030042b606bce1050eca</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>watson.kamanga</sys_updated_by>
+                        <sys_updated_on>2017-10-25 12:38:57</sys_updated_on>
+                        <value>Unassigned Incidents </value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2017-10-25 05:38:57">38daa4150fca030042b606bce1050e21</portal_section>
+                        <sys_created_by>watson.kamanga</sys_created_by>
+                        <sys_created_on>2017-10-25 12:38:57</sys_created_on>
+                        <sys_id>78da2c150fca030042b606bce1050eca</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>watson.kamanga</sys_updated_by>
+                        <sys_updated_on>2017-10-25 12:38:57</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2017-10-25 05:38:57">38daa4150fca030042b606bce1050e21</portal_section>
+                        <sys_created_by>watson.kamanga</sys_created_by>
+                        <sys_created_on>2017-10-25 12:38:57</sys_created_on>
+                        <sys_id>b4da2c150fca030042b606bce1050eca</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>watson.kamanga</sys_updated_by>
+                        <sys_updated_on>2017-10-25 12:38:57</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2017-10-25 05:38:57">38daa4150fca030042b606bce1050e21</portal_section>
+                        <sys_created_by>watson.kamanga</sys_created_by>
+                        <sys_created_on>2017-10-25 12:38:57</sys_created_on>
+                        <sys_id>f0da2c150fca030042b606bce1050eca</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>watson.kamanga</sys_updated_by>
+                        <sys_updated_on>2017-10-25 12:38:57</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-10-25 05:38:57">38daa4150fca030042b606bce1050e21</portal_section>
+                        <sys_created_by>watson.kamanga</sys_created_by>
+                        <sys_created_on>2017-10-25 12:38:57</sys_created_on>
+                        <sys_id>f8da2c150fca030042b606bce1050ec9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>watson.kamanga</sys_updated_by>
+                        <sys_updated_on>2017-10-25 12:38:57</sys_updated_on>
+                        <value>da903c51d7030200eaae68150e61039b</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">ad9960150fca030042b606bce1050e84</page>
+                <summary>Critical Open Incidents</summary>
+                <sys_created_by>watson.kamanga</sys_created_by>
+                <sys_created_on>2017-10-25 12:38:46</sys_created_on>
+                <sys_id>9ecaa4150fca030042b606bce1050ed3</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>watson.kamanga</sys_updated_by>
+                <sys_updated_on>2017-10-25 12:38:46</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">e99960150fca030042b606bce1050e85</grid_canvas>
+                        <height>5</height>
+                        <portal_widget display_value="Created 2017-10-25 05:38:46">9ecaa4150fca030042b606bce1050ed3</portal_widget>
+                        <posx>3</posx>
+                        <posy>10</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>watson.kamanga</sys_created_by>
+                        <sys_created_on>2017-10-25 12:38:46</sys_created_on>
+                        <sys_id>dacaa4150fca030042b606bce1050ed5</sys_id>
+                        <sys_mod_count>6</sys_mod_count>
+                        <sys_name>e99960150fca030042b606bce1050e85</sys_name>
+                        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+                        <sys_policy/>
+                        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_dacaa4150fca030042b606bce1050ed5</sys_update_name>
+                        <sys_updated_by>watson.kamanga</sys_updated_by>
+                        <sys_updated_on>2017-10-25 12:42:49</sys_updated_on>
+                        <width>3</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2017-10-25 05:38:46">9ecaa4150fca030042b606bce1050ed3</portal_section>
+                        <sys_created_by>watson.kamanga</sys_created_by>
+                        <sys_created_on>2017-10-25 12:38:46</sys_created_on>
+                        <sys_id>12caa4150fca030042b606bce1050ed5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>watson.kamanga</sys_updated_by>
+                        <sys_updated_on>2017-10-25 12:38:46</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2017-10-25 05:38:46">9ecaa4150fca030042b606bce1050ed3</portal_section>
+                        <sys_created_by>watson.kamanga</sys_created_by>
+                        <sys_created_on>2017-10-25 12:38:46</sys_created_on>
+                        <sys_id>5ecaa4150fca030042b606bce1050ed4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>watson.kamanga</sys_updated_by>
+                        <sys_updated_on>2017-10-25 12:38:46</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2017-10-25 05:38:46">9ecaa4150fca030042b606bce1050ed3</portal_section>
+                        <sys_created_by>watson.kamanga</sys_created_by>
+                        <sys_created_on>2017-10-25 12:38:46</sys_created_on>
+                        <sys_id>92caa4150fca030042b606bce1050ed4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>watson.kamanga</sys_updated_by>
+                        <sys_updated_on>2017-10-25 12:38:46</sys_updated_on>
+                        <value>995ea851d7030200eaae68150e610360</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2017-10-25 05:38:46">9ecaa4150fca030042b606bce1050ed3</portal_section>
+                        <sys_created_by>watson.kamanga</sys_created_by>
+                        <sys_created_on>2017-10-25 12:38:46</sys_created_on>
+                        <sys_id>9acaa4150fca030042b606bce1050ed4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>watson.kamanga</sys_updated_by>
+                        <sys_updated_on>2017-10-25 12:38:46</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2017-10-25 05:38:46">9ecaa4150fca030042b606bce1050ed3</portal_section>
+                        <sys_created_by>watson.kamanga</sys_created_by>
+                        <sys_created_on>2017-10-25 12:38:46</sys_created_on>
+                        <sys_id>d2caa4150fca030042b606bce1050ed5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>watson.kamanga</sys_updated_by>
+                        <sys_updated_on>2017-10-25 12:38:46</sys_updated_on>
+                        <value>Critical Open Incidents</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2017-10-25 05:38:46">9ecaa4150fca030042b606bce1050ed3</portal_section>
+                        <sys_created_by>watson.kamanga</sys_created_by>
+                        <sys_created_on>2017-10-25 12:38:46</sys_created_on>
+                        <sys_id>d6caa4150fca030042b606bce1050ed4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>watson.kamanga</sys_updated_by>
+                        <sys_updated_on>2017-10-25 12:38:46</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

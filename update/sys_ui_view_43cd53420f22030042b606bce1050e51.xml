@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>rpt-temp6a1897f7d7100200b96d45a3ce6103a9watson.kamanga</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>watson.kamanga</sys_created_by>
+        <sys_created_on>2017-11-22 06:07:43</sys_created_on>
+        <sys_id>43cd53420f22030042b606bce1050e51</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>watson.kamanga</sys_updated_by>
+        <sys_updated_on>2017-11-22 06:07:43</sys_updated_on>
+        <title>Rpt-temp6a1897f7d7100200b96d45a3ce6103a9watson.kamanga</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
