@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sysevent_email_template">
+    <sysevent_email_template action="INSERT_OR_UPDATE">
+        <collection>x_58872_needit_needit_task</collection>
+        <email_layout/>
+        <message/>
+        <message_html/>
+        <message_list/>
+        <message_text/>
+        <name>mailto.closeneedittask</name>
+        <sms_alternate/>
+        <subject>Re: ${number} - please close NeedIt Task ${number}</subject>
+        <sys_class_name>sysevent_email_template</sys_class_name>
+        <sys_created_by>watson.kamanga</sys_created_by>
+        <sys_created_on>2018-01-25 10:55:20</sys_created_on>
+        <sys_id>92448ef60fbb030042b606bce1050e2b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>mailto.closeneedittask</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sysevent_email_template_92448ef60fbb030042b606bce1050e2b</sys_update_name>
+        <sys_updated_by>watson.kamanga</sys_updated_by>
+        <sys_updated_on>2018-01-25 10:55:20</sys_updated_on>
+        <sys_version>2</sys_version>
+    </sysevent_email_template>
+</record_update>
